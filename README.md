@@ -1,2 +1,6 @@
-# StarterCampaign
-Players Keep Out
+# Starter Campaign Info
+Players Keep Out:
+
+Jake, Chris, Pierce, Kate
+
+##### **THIS MEANS YOU**
