@@ -1,8 +1,6 @@
 # Part One: The Heist
 
-## Scene One: The Party Gathers
-
-#### Character's
+## Character's
 * Sire Yakob Klees, The Boss (Sapeen) - Short and plump with a full head of black hair sticking up in all directions and a magnificent mustache in the fashion of the Sapeen of the Steppes, Klees wears flamboyant colors and smokes a pipe; he is loud, laughs at all his own jokes, and is known for his quick temper. He caries an Askelonian small sword and a brace of Galterainian pistols.
 * Seera, Sire Yakob's Lieutenant (Denja) - covered in light green scales seera wears a sleeveless grey and mist blue robe with no obvious weapons. Seera is laid back and seemingly always amused; she is known to be skilled mage.
 * <BOSS'S GUARDS>
@@ -15,7 +13,7 @@
 * Warehouse Supervisor
 * Melia daughter of Neera, Captain of The Order of Baker's Sons
 
-#### Scene One: Meeting With Sire Yakob Klees
+## Scene One: Meeting With Sire Yakob Klees
 The characters gather at The Pick and Key, a local tavern, at lunch time in response to a summons from local Land-Owner (lowest rank of Askelonian Lord), and suspected gang leader, Sire Yakob Klees.
 
 As the character's enter there is a regular lunch crowd but no sign of of the Sire, if they ask the Cedren he'll inform them they are to wait and ask if they want food or ale while they do.  
@@ -28,11 +26,23 @@ Klees bellows out a greeting and asks the party to take a seat, offering refresh
 
 After the party settles Klees explains how he had a important chest that was hidden in a shipment that got raided by The Baker's Sons. The chest was arcanely locked and he knows the mages would charge him more than he's willing to pay for it's return and he's unwilling to start a war by going after it himself but he knows of individual who was involved and may know where the chest where being kept; Leorg is an ally of the Order but not a mage himself, he's cautious and knows Klees's men but not the party. Leorg is known to frequent a local tavern and gambling hall called The Hard Six.
 
-#### Scene Two: Tracking Leorg
+## Scene Two: Tracking Leorg
 The party should investigate Leorg's whereabouts, ultimately tracking him to a back room card table at The Hard Six. Leorg will be drunk and, if not confronted first head to the back ally to relieve himself. The party can apprehend and question him however they see fit. He wont be willingly forthcoming with the information but will brag about the raided caravan if he feels he's being praised or will quickly spill his guts if threatened with violence.
 
 Leorg will reveal that the stollen shipment is being stored on the second story of a guarded warehouse owned by The Baker's Sons in a small room that is only accessible by a secret door from the accountant's office or through a hatch in the floor of the building's top level. If the players press for it the accountant's office has a window and the third floor has a balcony that can be reached from the roof of the blacksmith's shop next door. The warehouse has a number of guards who will be supervised by one member of the order at night and at least three other members of the order may be there during the day, including the accountant, the warehouse supervisor, and captain of the order Melia daughter of Neera who keeps a second office on the ground level that she often uses to get some peace and quite away from the order's headquarters.
 
-#### Scene Three: Breaking in
+## Scene Three: Breaking in
+The character's choose how to enter the warehouse navigating at their own peril until they've found the <PACKAGE> Sire Klees sent them for. The character's may search for other loot while in the warehouse. See Map figure one for outside the building and Map figure two for inside the building. The character's need only get the <PACKAGE> and get out.
 
-#### Scene Four: Ambush
+First Floor:
+
+Second Floor:
+
+Third Floor:
+
+## Scene Four: Ambush
+When the character's go to meet Sire Klees, preferable in the ally behind the inn to avoid attracting to much attention they give the package to Klees who is present with Seera and Rallin. As soon as the package is handed off the group is confronted by robed men from both ends of the ally one of them fires off a crossbow bolt at Rollin bringing him to his knees and another cast a spell engulfing him in flame. Klees shouts that the party must have been followed and that he'll have the Baker's head for this, after which combat ensues.
+
+Seera reminds the party that it's a bad idea to leave an ally full of bodies and to keep to their non-lethal weaponry if they wish to keep the law off their backs.
+
+After the fight is over and the Baker's Sons flee or are incapacitated Klees asks that the party accompanies Seera to Proto to finish her mission now that Rallin is to injured to do it himself. He promises to double his initial offer of pay and cut them in for one percent of the delivery each.
