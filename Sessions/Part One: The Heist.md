@@ -35,10 +35,24 @@ Leorg will reveal that the stollen shipment is being stored on the second story 
 The character's choose how to enter the warehouse navigating at their own peril until they've found the <PACKAGE> Sire Klees sent them for. The character's may search for other loot while in the warehouse. See Map figure one for outside the building and Map figure two for inside the building. The character's need only get the <PACKAGE> and get out.
 
 First Floor:
-
+    1. The main storage area is filled with piled up barrels and crates, it's open with a high ceiling; the stacks of items do not reach the ceiling but are tall enough to block the character's view.
+    2. Panty and kitchen, this room has food and prep supplies; there's a good chance at least one guard is in here.
+    3.
+    4.
+    5. Wagon entrance, this drop down is where wagons would pull in to be loaded and unloaded while out of the weather and away from prying eyes. There is a small lift operated by a hand crank next to this area.
 Second Floor:
-
+    6. Second story storage area is much like the first but with a lower ceiling, the stacked barrels and crates reach all the way to the ceiling.
+    7. This room may once have been an office but has become additional storage space. Some more valuable items may be stored in here if the party takes the time to search it.
+    8. Accountant's office, filled with ledgers and scrolls.
+    9. Quartermaster's office, contains a number of areas for soldiers to sit, a single desk with a ledger as well as some weapon cleaning and repair tools.
+    10. Weapon's locker, filled with locked racks and chests of weapons, the metal weapons are locked up but but staves, clubs, bows, and the like are available to easily grab.
+    11. Captains office, the door is locked and the room is filled with the comforts afforded to a captain of the Baker's Sons. A tidy desk sit in the center surrounded by bookshelves and with a seating area off to the side, remnants of yesterday's dinner still on the table.
+    12. Accountant's closet, filled with shelves of scrolls and old ledgers there is a hidden door in the back of the closet.
+    13. Hidden room containing nothing but the illicit package stollen from Sire Klees.
 Third Floor:
+    14. Top story storage, much like the lower two floors main areas this large room is filled with barrels and crates.
+    15. Outer Storage, this section of the building is covered but has no walls, some items are stored out here. The small lift in one corner is matched by a crane with hand crank in the opposite to bring crates directly from the ally to to the roof. The roof is angled in such a way that when it rains all the water is emptied into the corner pool and piped into the rest of the warehouse. 
+    16. Barracks, though the warehouse is not meant to house soldiers there is a room with a handful of beds, at least one of will be taken by a guard trying to grab a nap on the job.
 
 ## Scene Four: Ambush
 When the character's go to meet Sire Klees, preferable in the ally behind the inn to avoid attracting to much attention they give the package to Klees who is present with Seera and Rallin. As soon as the package is handed off the group is confronted by robed men from both ends of the ally one of them fires off a crossbow bolt at Rollin bringing him to his knees and another cast a spell engulfing him in flame. Klees shouts that the party must have been followed and that he'll have the Baker's head for this, after which combat ensues.
