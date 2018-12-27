@@ -1,8 +1,8 @@
 Character's live in the outskirts of Kelsp and are frequently given trouble by the men of Tyron Relnt, leader of the neighboring town of Pelto. The larger town feels that it rightfully governs both itself and Kelsp and often sends men to collect "taxes" that are owed to the government. This has been going on for years but the dispute is considered small enough that the governor has not gotten involved.
 
-The character's are working outside when a young girl (Yenn), maybe 12 cycles old, comes running up huffing and puffing about a coming storm and that they need to get to the great hall for safety, she also mentions that she saw the two men that beat up old man Riccard last week and took his day's catch as back taxes to Relnt coming their way.
+The character's are working outside when a young girl (Yenn), maybe 12 cycles old, comes running up huffing and puffing about a coming storm and that they need to get to the great hall for safety, she also mentions that she saw the four men that beat up old man Riccard last week and took his day's catch as back taxes to Relnt coming their way.
 
-She has two more houses to go warn and worries there isn't time before the storm hits. The Yorn family (denja) need are likely all out in their orchard gathering fruit and weren't at home and the widow Eirn who lives alone in the hills. She asks if the players can help with the warnings.
+She has two more houses to go warn and worries there isn't time before the storm hits. The Yorn family (denja) need are likely all out in their orchard gathering fruit and weren't at home and the widow Irene who lives alone in the hills. She asks if the players can help with the warnings.
 
 The players end up either at the great hall or out in the storm. At the great hall Thissel is knifed and murdered and a hooded sapeen man flees into the storm; the players see him flee either from in the safety of the hall or as they approach it.
 
@@ -17,3 +17,42 @@ Have a sailor not from the island warn that one of the other ships in port is ac
 Olard, priest of Clurses, claims divine vision that a great threat looms at wyvren point and failure to deal with it now will lead to disaster. (Have the point be secret home to a group of tor'joven that have been sent by Grail and tasked with secretly concurring the island as a puppet attack on Galabrain.)
 
 Rumors that inland farm hands have been disappearing and no one knows why; some think they've been leaving the island on merchant ships others think something sinister is going on.
+
+
+
+
+
+Handful of names:
+Sapeen Males: Rolho, Terrin, Will, Bartholomew, Cicero, Jet
+Sapeen Females: Marta, Sera, Gaila, Alex, Valarie
+
+Denja names:  Yelnik, Nordan, Knot, Small Stone, Worry
+
+
+Dependent Mage abilities:
+
+* **Resist Temperature** - touch, cold or fire, all mages
+    * (1+) - increase the target’s cold or fire resistance by X plus one per additional success spent.
+* **Force Barrier** - short, force, all mages
+    * (1+) - create a shield or wall of pure force X meters square and shaped as the caster wishes; the barrier has a body and armor value of X and may hold back 100X pounds and lasts for X rounds. Additional successes may be spent to increase the body or armor value by one each or one success can be used to allow the mage to move the barrier as a shield while it lasts providing 3 times X cover bonus (max 9). The barrier has its armor value reduced by two whenever it is bypassed and by one for each wound it would suffer from non-penetrating damage, the barrier is destroyed if its armor value is ever reduced to zero. A target just beyond a force barrier takes damage if the barrier’s armor was bypassed with added damage reduction of the barrier’s armor before the reduction caused by the attack.
+* **Arcane Armor** - short, fortification, all mages
+    * Natural Armor (3+) - target character gains an armor value of X, plus one for each additional success spent for X rounds. If the target already has natural armor this effect replaces it, if it's APV is greater, or increases the natural value by 1.
+    * Hardened Armor (3) - target item of armor or natural armor has its APV increased by X for X rounds.
+    * Absorb Damage (3) - target gains X physical damage reduction plus one for every two additional successes spent for one round.
+* **Energize** - short, healing or lighting, all mages
+    * (1+) - target character regains X stamina plus X per additional success spent, the character then suffers one fatigue plus one for every three additional successes spent on this power.
+* **Sense Health** - medium, healing, all mages
+    * Diagnose (4+) - gain X bonus dice to a medical diagnostic skill check on one target character, this check may reveal illnesses, injuries, or conditions otherwise not testable for by a standard examination such as a healed fracture, non-symptomatic carrier of a disease, or weather or not the character is pregnant. Additional successes can be used to find out additional information about the character’s health that was initially found during the diagnostics, for each success used in this way ask the GM one simple question about a diagnosed item (ex: how old is the fracture? How is the disease spread? Is it a boy or girl?) .
+    * Monitoring (1+) - allows the mage to monitor the state of one diagnosed item for X minutes + 1 minute per additional success.
+*  * **Move Water** - medium, movement or water, all mages
+      * Displace (1+) - move up to 10 times X liters of liquid up to X meters, increase total amount of water by up to 10 liters or the total distance by up to 1 meter per additional success spent.
+      * Speed (1+) - adjust the speed of X tons of water by up to ten times X meters per minute, increase the tonnage by one or meters per minute by ten for each additional success spent. This power does not allow the mage to move water outside its normal barriers. Ships on the moving water and items or creatures in it have their speed adjusted by the same amount as the water.
+* **Move Wind** - medium, movement or storm or wind, all mages
+    * Displace (1+) - move up to 10 times X cubic meters of air up to X meters, increase total volume of air by up to 10 cubic meters or total distance by up to 1 meter, the air continues moving losing one meter of distance each round.
+    * Area (1+) - an area of up to X cubic meters of air moves erratically causing all ranged attacks passing through it to suffer -X to their skill check results, modified by projectile size, for X rounds. Additional successes can be spent to increase the cubic meters, skill check penalty, or duration by one.
+    * Speed (1+) - the wind in an area of no more than ten times X cubic meters has its speed increased or decreased by up to 150 times X meters per minute. Additional successes may be spent to increase the volume by 10 cubic meters or the speed by 150 meters per minute.
+* **Relocate** - short, space, all mages
+    * (3+) - target object of up to 10X pounds that is not held by a character can be relocated up to X meters. Additional successes can be spent to increase the weight of the object by up to 10lbs each. For each half of the weight (minimum 1 lb) the target object is the range may be extended by 1 meter. This effect can not cause the target to relocate to within another object/character.
+    * (3+) - target character with up to combined body and size attributes of X may be relocated by up to X meters, plus one meter per additional success spent. The target’s combined stats may be reduced for this calculation by one for each additional success spent; a caster targeting himself may choose to reduce his body stat to 1 for the purposes of this effect. This effect can not cause the target to relocate to within another object/character.
+* **Water to** … - touch, water, all mages
+    * (1+) - turn up to X doses of purified water plus one dose per additional success spent into another liquid that the caster chooses. Different liquid types have different dose sizes for example dirtying water can be performed on 4 liters of water, beer on 1 liter, wine on half a liter, liquor on a deciliter, ink or oil or honey on a milliliter, etc.
