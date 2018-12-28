@@ -9,7 +9,7 @@
 # WORLD
 * Two moons, one that cycles once per season and one that cycles for 28 days with irregular new/full timing. The calendar is set by the moons.
 * There are many Gods but they don't appear to take direct action in the world (anymore).
-* Money break down is coper pennies, silver shields (20 pennies), silver talents (five shields or 100 pennies), and iron bar (20 talents or 2000 pennies).
+* Money break down is coper pennies, silver shields (5 pennies), silver talents (5 shields or 25 pennies), and iron bar (10 talents or 250 pennies).
 * Iron, and therefore steel, is quite rare but has some inherent magical properties.
 
 
