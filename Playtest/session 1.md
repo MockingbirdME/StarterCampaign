@@ -25,6 +25,22 @@
     - the tunnel leads into a larger chamber with a few guards chatting and gambling and another cooking a stew over an open fire.
     - A tunnel to the left leads into another chamber obviously converted into a sleeping area.
     - A tunnel to the right is a much longer snaking hallway that has many collapsed tunnels forking from it. The hallway ends in an ornate chamber with a few Tor'joven soldiers and two sapeen women, one older with a long knife the other barely past majority with long wavy black hair and a stylized, fresh, tattoo around her neck that looks to continue down below the shift she's wearing who is bound to the wall with shackles and bleeding from a few long cuts draining her blood into a pair of silver bowls with large amounts of burning smokey incense around her. The older women commands the Tor'joven to attack and supports them with spells fleeing if the fight goes sour and using some magic to collapse the tunnel behind her.
+        - Tor'joven:
+            Att: body - 6, ref - 5, perc - 5, mind - 4
+            Res: def: 20 (+3/1), stam: 16
+            skills: melee - 3, def - 2, move - 2.
+            armor: AV: 5, BV: 1, DR: 1.
+            - one has a spear: reach - 8 (13), parry - 3
+            - the other a sword and wooden shield: reach - 5(10), parry - 4 + 1, cover - 3.
+            -  Skirmisher’s Spear: Reach: 8, Difficulty: 4, Parry: 3/3/-, Notes: _Thrust_ _trip_ _Hand and a half_.
+                  - Damage Type: P, Damage: Body-1, APV: 4, Additional Successes: 1 damage and 1 APV, Notes: none.
+                  - Damage Type: C, Damage: 2Body, APV: -, Additional Successes: 3 damage, Notes: _Bash_.
+                  - throw(Close Range: body, Range Increment: body, Max Range: 3 x body, Range Penalty: 1 die), Notes: none.
+            - One-Handed Sword: Reach: 5, Difficulty: 4, Parry: 4/-/1, Notes: none.
+                - Damage Type: P, Damage: Body-1, APV: 6, Additional Successes: 2 damage or 1 APV, Notes: none.      
+            - Round/Heater Shield: Reach: 3, Difficulty: 3, Parry: 0/-/1, Cover: 3, Notes: _Bash_ if a character wielding this weapon chooses not to make an attack with it they may instead increase the shields cover bonus by their rank in the shield secondary skill for one round.
+                - Damage Type: C, Damage: Body +2, APV: -, Additional Successes: 2 damage, Notes: none.
+  - Damage Type: C, Damage: Body +2, APV: -, Additional Successes: 2 damage, Notes: none.            
         - The younger woman doesn't appear to speak Grailic but instead gibbers in some foreign tongue before proclaiming "The wyrms come, the isle will bow unto them!" and fainting. If the party rouses her they find a scared young girl with mage eyes that claims to not know who she is or where she came from but now can speak fluent Grailic.
         - Searching the area there is a small work table with a ornate box on it that contains two small boxes of faintly glowing powder (arcane essence), two vials of faintly glowing liquid (one a pale yellow the other a deep red) and three cigars with black bands around them.
             - Yellow potion (_Stamina Potion_ common restoration potion used to keep workers in top shape far more cheaply than using pure essence) restores stamina to full but inflicts 5 fatigue.
