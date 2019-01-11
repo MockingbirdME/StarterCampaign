@@ -25,6 +25,12 @@
     - the tunnel leads into a larger chamber with a few guards chatting and gambling and another cooking a stew over an open fire.
     - A tunnel to the left leads into another chamber obviously converted into a sleeping area.
     - A tunnel to the right is a much longer snaking hallway that has many collapsed tunnels forking from it. The hallway ends in an ornate chamber with a few Tor'joven soldiers and two sapeen women, one older with a long knife the other barely past majority with long wavy black hair and a stylized, fresh, tattoo around her neck that looks to continue down below the shift she's wearing who is bound to the wall with shackles and bleeding from a few long cuts draining her blood into a pair of silver bowls with large amounts of burning smokey incense around her. The older women commands the Tor'joven to attack and supports them with spells fleeing if the fight goes sour and using some magic to collapse the tunnel behind her.
+        - Witch:
+            Arcane Powers:
+                - **Energize** - short, healing or lighting, all mages
+                  * (1+) - target character regains X stamina plus X per additional success spent, the character then suffers one fatigue plus one for every three additional successes spent on this power.
+                - **Shape Matter** - short, matter, all mages
+                  * (varies) - target up to X cubic decimeters of stone or dead wood, X cubic centimeters of soft metal (coper, bronze, iron), or X cubic millimeters of hard metal (steel) and shape it to your will. The number of successes needed depend on how much the substance has already been worked, wooden boards or stone blocks require only one success, worked stone or wood require 4 successes, and forged metal requires 8 successes. Additional successes can be spent to increase the volume affected by up to 1 deci/centi/millimeter depending on the substance affected.
         - Tor'joven:
             Att: body - 6, ref - 5, perc - 5, mind - 4
             Res: def: 20 (+3/1), stam: 16
