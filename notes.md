@@ -3,7 +3,7 @@ Cooking skill check - mind + survival skill check if without the cooking profess
 
 Shop in town - small run by Rolto.
 
-Thorn's ship "Greesy Lady"
+Thorn's ship "Greasy Maiden"
 
 
 1, 2, 3
