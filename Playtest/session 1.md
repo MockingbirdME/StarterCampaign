@@ -48,8 +48,8 @@
                 - Damage Type: P, Damage: Body-1, APV: 6, Additional Successes: 2 damage or 1 APV, Notes: none.      
             - Round/Heater Shield: Reach: 3, Difficulty: 3, Parry: 0/-/1, Cover: 3, Notes: _Bash_ if a character wielding this weapon chooses not to make an attack with it they may instead increase the shields cover bonus by their rank in the shield secondary skill for one round.
                 - Damage Type: C, Damage: Body +2, APV: -, Additional Successes: 2 damage, Notes: none.
-  - Damage Type: C, Damage: Body +2, APV: -, Additional Successes: 2 damage, Notes: none.            
-        - The younger woman doesn't appear to speak Grailic but instead gibbers in some foreign tongue before proclaiming "The wyrms come, the isle will bow unto them!" and fainting. If the party rouses her they find a scared young girl with mage eyes that claims to not know who she is or where she came from but now can speak fluent Grailic.
+                - Damage Type: C, Damage: Body +2, APV: -, Additional Successes: 2 damage, Notes: none.            
+        - The younger woman doesn't appear to speak Grailic but instead gibbers in some foreign tongue before proclaiming "The wyrms come, the isle will bow unto them!", "He shall unite the kingdom.", "A true Dragon leads them.", "The dragon shall bring an end to twilight.", "He is twilight's end!" 
         - Searching the area there is a small work table with a ornate box on it that contains two small boxes of faintly glowing powder (arcane essence), two vials of faintly glowing liquid (one a pale yellow the other a deep red) and three cigars with black bands around them.
             - Yellow potion (_Stamina Potion_ common restoration potion used to keep workers in top shape far more cheaply than using pure essence) restores stamina to full but inflicts 5 fatigue.
             - Red Potion (_Stabilizing Potion_ used by soldiers everywhere to stabilize patients until proper medical attention can be found) stabilizes a dying patient and closes, but does not remove, any wounds.
